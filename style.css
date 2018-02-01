@@ -115,6 +115,22 @@ nav a:hover{
   height: auto;
 }
 
+textarea{
+  vertical-align: top;
+  height: 10em;
+  width: 30em;
+}
+
+input{
+  width: 30em;
+}
+
+label{
+  text-align: right;
+  display: inline-block;
+  width: 200px;
+}
+
 p.about{
   font-size: large;
 }
