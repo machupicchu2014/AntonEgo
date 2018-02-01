@@ -123,6 +123,15 @@ p.about{
   color: blue;
 }
 
+p.supersmall {
+  font-size: 12px;
+}
+
+p.complaints{
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
 .sidebar a{
   display: block;
   margin-bottom: 20px;
